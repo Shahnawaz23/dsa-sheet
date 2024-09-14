@@ -1,0 +1,6 @@
+.problem-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 15px;
+    width: 200px;
+}
